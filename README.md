@@ -1,4 +1,4 @@
-# Curso-em-Video
+# Curso-em-Video # In portuguese
 
 Exercicios do Site Curso em Video
 - HTML
